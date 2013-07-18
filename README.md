@@ -1,4 +1,4 @@
-# No RFPs!
+![logo](https://github.com/fourkitchens/norfps/raw/master/img/norfps_logo.png "No RFPs logo")
 
 ## What is the No RFPs movement?
 
